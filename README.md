@@ -68,4 +68,6 @@ try{
     }catch(a){console.log(a)}
 }catch(b){console.log(b)}
 //I don't know how to prettify and make the result more accurate
+//Below is this rotten code's result
 ```
+![無標題10_20211017213942](https://user-images.githubusercontent.com/37398747/137630929-8507e478-827f-4344-b4ec-dc19754db913.png)
