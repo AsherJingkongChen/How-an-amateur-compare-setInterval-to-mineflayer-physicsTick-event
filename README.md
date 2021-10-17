@@ -1,4 +1,5 @@
 # How-an-amateur-compare-setInterval-to-mineflayer-physicsTick-event
+```
 try{
     const mathjs = require('mathjs');
     const math = require('math');
@@ -66,3 +67,5 @@ try{
         })
     }catch(a){console.log(a)}
 }catch(b){console.log(b)}
+//I don't know how to prettify and make the result more accurate
+```
