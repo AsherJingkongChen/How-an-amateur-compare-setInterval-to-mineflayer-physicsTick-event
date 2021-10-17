@@ -1,5 +1,5 @@
 # How-an-amateur-compare-setInterval-to-mineflayer-physicsTick-event
-```
+```javascript
 try{
     const mathjs = require('mathjs');
     const math = require('math');
